@@ -1,0 +1,93 @@
+python
+java
+javascript
+html
+css
+sql
+mysql
+postgresql
+mongodb
+react
+angular
+vue
+node.js
+express.js
+django
+flask
+spring boot
+c++
+c#
+ruby
+php
+golang
+kotlin
+typescript
+shell scripting
+bash
+powershell
+linux
+windows server
+macos
+git
+github
+gitlab
+docker
+kubernetes
+terraform
+ansible
+jenkins
+circleci
+travis ci
+ci/cd
+aws
+azure
+gcp
+cloud computing
+rest api
+soap api
+graphql
+machine learning
+deep learning
+nlp
+computer vision
+artificial intelligence
+data science
+data analysis
+big data
+hadoop
+spark
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+pytorch
+power bi
+tableau
+excel
+project management
+agile
+scrum
+kanban
+jira
+trello
+leadership
+communication
+problem solving
+critical thinking
+decision making
+time management
+teamwork
+adaptability
+creativity
+attention to detail
+strategic thinking
+collaboration
+presentation skills
+negotiation
+conflict resolution
+mentoring
+coaching
+public speaking

@@ -1,0 +1,7 @@
+streamlit
+spacy
+pdfminer.six
+textblob
+matplotlib
+pillow
+numpy
